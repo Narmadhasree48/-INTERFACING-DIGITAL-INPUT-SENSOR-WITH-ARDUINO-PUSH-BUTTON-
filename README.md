@@ -1,8 +1,8 @@
 ## INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
-## DATE :
-## NAME :																			             
-## ROLLNUMBER :
-## DEPARTMENT 
+## DATE :16-02-2024
+## NAME :NARMADHA SREE S																		             
+## ROLLNUMBER :212223240105
+## DEPARTMENT :AIML
 
 
 ## AIM:
@@ -53,33 +53,14 @@ FIGURE-02
 
 
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
-
-
-
 FIGURE -03
 
-
-
-
-## PROGRAM 
- 
- 
-
-
-
-
-
-
-
-
-
- 
- 
- 
-
-
+![exp 1](https://github.com/Narmadhasree48/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144979451/c8389f2e-192b-41ae-b8a0-fbd9ffee1553)
+### PROGRAM 
+![Screenshot 2024-02-16 212904](https://github.com/Narmadhasree48/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144979451/ee1cde9e-8c7a-4411-a58e-82f64ae68645)
 
 ## OUTPUT OF SIMULATION :
-
-[My image](username.github.com/repository/img/image.jpg)
-
+![Screenshot 2024-02-16 211511](https://github.com/Narmadhasree48/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144979451/8149db58-ac48-43b2-959c-5371293a2f7d)
+![Screenshot 2024-02-16 212120](https://github.com/Narmadhasree48/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144979451/36799272-2473-4ee2-8541-606833c2540d)
+## Result:
+thus the simulation output on interfacing digital input sensor with arduino has been completed in tinkercad.
